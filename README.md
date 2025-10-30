@@ -1,7 +1,11 @@
 ## Hi there 👋
 
+### 📈 **GitHub Analytics**
+
+![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
+
 <!--
-**gru-ai-alt/gru-ai-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**h8901623/h8901623** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
